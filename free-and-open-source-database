@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <title>TensorFlow.js Trainer (Browser, no pip)</title>
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial; padding: 18px; max-width: 900px; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Calibri", Roboto, Arial; padding: 18px; max-width: 900px; }
     .row { display:flex; gap:10px; align-items:center; margin:8px 0; flex-wrap:wrap; }
     label { min-width:120px; display:inline-block; }
     input, select, button { padding:6px; }
