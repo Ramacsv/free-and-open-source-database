@@ -216,4 +216,4 @@ loadDataset('xor');
 (async ()=> { try { await tf.ready(); log('TF ready. backend=' + tf.getBackend()); } catch(e){ log('TF init error: ' + e.message); } })();
 </script>
 </body>
-</html>
+</java>
